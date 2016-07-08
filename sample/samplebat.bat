@@ -1,0 +1,2 @@
+echo %time%
+pause

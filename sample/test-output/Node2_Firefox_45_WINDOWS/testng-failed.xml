@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="200" name="Failed suite [Node2_Firefox_45_WINDOWS]" parallel="methods" data-provider-thread-count="200">
+  <test name="StrongAuthSmokeTest">
+    <classes>
+      <class name="com.ca.sample.App"/>
+    </classes>
+  </test> <!-- StrongAuthSmokeTest -->
+</suite> <!-- Failed suite [Node2_Firefox_45_WINDOWS] -->

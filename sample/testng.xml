@@ -1,0 +1,16 @@
+<suite  name="Testsuite">
+	<test name="sampleTestcases" >
+		<classes>
+			<class name="com.ca.sample.tc1" />
+		</classes>
+		<classes>
+			<class name="com.ca.sample.tc2" />
+		</classes>
+		<classes>
+			<class name="com.ca.sample.tc3" />
+		</classes>
+		<classes>
+			<class name="com.ca.sample.tc4" />
+		</classes>
+	</test>
+</suite>
